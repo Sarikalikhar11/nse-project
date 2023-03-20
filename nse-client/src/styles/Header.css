@@ -1,0 +1,32 @@
+.nav-right {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 40px;
+  color: rgb(126, 125, 125);
+}
+.search {
+  margin-right: 40px;
+  cursor: pointer;
+}
+.bell {
+  margin-right: 40px;
+  cursor: pointer;
+}
+.user {
+  cursor: pointer;
+}
+i {
+  font-size: 18px;
+}
+.nse_logo {
+  padding-top: -5px;
+  width: 90px;
+  height: 90px;
+  margin-left: 20px;
+}
+.navbar {
+  /* border-bottom: 1px solid gray; */
+  box-shadow: 5px 5px 8px 5px rgb(191, 191, 191);
+  /* position:fixed; */
+}

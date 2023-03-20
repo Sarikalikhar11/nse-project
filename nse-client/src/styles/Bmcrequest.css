@@ -1,0 +1,65 @@
+.ins-sub {
+  margin-top: 5px;
+  padding-top: 20px;
+  background-color: rgb(241, 240, 240);
+  padding-bottom: 50px;
+}
+.back-dash {
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.back-dash i {
+  color: rgb(223, 120, 30);
+  font-weight: 600;
+}
+form {
+  background-color: white;
+  padding: 25px 60px 25px 10px;
+  box-shadow: 0px 5px 5px 5px rgb(207, 206, 206);
+}
+.form {
+  padding: 25px 60px 25px 10px;
+}
+.form h4 {
+  color: rgb(11, 11, 121);
+  font-weight: 700;
+  margin-bottom: 35px;
+  font-family: 'Roboto', sans-serif;
+}
+.form h6 {
+  font-size: 14px;
+  color: rgb(11, 11, 121);
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.form_select p {
+  font-size: 12px;
+  font-weight: 600;
+  color: gray;
+  margin-bottom: -5px;
+}
+.select_box {
+  width: 300px;
+}
+.form_select {
+  padding-top: -10px;
+  border-bottom: 1px solid rgb(128, 127, 127);
+  width: 300px;
+}
+.form_para {
+  height: 140px;
+  border: 1px solid gray;
+  border-radius: 7px;
+  overflow: auto;
+  padding: 1rem;
+}
+.app_btn input {
+  padding: 5px 40px 5px 40px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(207, 95, 16);
+  text-transform: uppercase;
+  color: white;
+  font-size: 14px;
+  margin-left: 380px;
+}
