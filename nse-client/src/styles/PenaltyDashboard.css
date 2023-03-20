@@ -54,24 +54,25 @@
   background-color: transparent;
 }
 .btn button {
-  padding: 5px 60px;
-  margin: 20px;
+  padding: 5px 55px;
   border: none;
   text-transform: uppercase;
   border-radius: 8px;
+  margin-right: 10px;
 }
 .btn:hover {
   border: none;
 }
 .btn-clear {
   background-color: rgb(211, 209, 209);
+  margin-right: 20px;
 }
 .btn-search {
   background-color: chocolate;
   color: white;
 }
 .icons {
-  margin-left: 140px;
+  margin-left: 24px;
 }
 .icons span {
   margin-right: 20px;
@@ -100,8 +101,8 @@
   text-transform: uppercase;
   color: white;
   font-size: 14px;
-  margin-left: 240px;
+  margin-left: 100px;
 }
-.para{
-  color:cadetblue
+.para {
+  color: cadetblue;
 }
