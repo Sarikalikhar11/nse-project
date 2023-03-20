@@ -409,7 +409,7 @@ const PenaltyDashboard = () => {
                 &nbsp;&nbsp;Back to Main Dashboard
               </h6>
             </div>
-            <div className="container p-3 mt-4 me-5">
+            <div className="container p-2 mt-4 me-5">
               <div className="form-container">
                 <h4>Penalty Dashboard</h4>
                 <div className="row">
@@ -454,7 +454,7 @@ const PenaltyDashboard = () => {
                         <span>2020 (Penalty for September 2020)</span>
                       </p>
                     </div>
-                    <div className="col-md-6 icons ">
+                    <div className="col-md-6 col-sm-9 icons">
                       <div className="icon-right d-flex">
                         <span className="d-flex">
                           <ImDownload3

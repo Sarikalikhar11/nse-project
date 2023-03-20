@@ -6,11 +6,13 @@
 }
 .back-dash {
   margin-top: 20px;
-  margin-left: 80px;
+  margin-left: 100px;
+  padding-left: 50px;
 }
 .back-dash i {
   color: rgb(223, 120, 30);
   font-weight: 600;
+  margin-left: 100px;
 }
 form {
   background-color: white;

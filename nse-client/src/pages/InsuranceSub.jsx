@@ -67,7 +67,7 @@ const InsuranceSub = () => {
               <h4>Upload Insurance Policy</h4>
               <div className="row">
                 <div className="col-md-4">
-                  <Card className="card_policy">
+                  <Card className="card_policy border-0">
                     <Card.Body>
                       <Card.Title className="card_tit mt-4 mb-3">
                         Upload Guidelines
@@ -109,7 +109,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-4">
-                  <Card className="card_policy">
+                  <Card className="card_policy border-0">
                     <Card.Body>
                       <Card.Title className="card_tit1 d-flex justify-content-between mt-4 mb-3">
                         Insurance Policy
@@ -128,7 +128,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-4">
-                  <Card className="card_policy">
+                  <Card className="card_policy border-0">
                     <Card.Body>
                       <Card.Title className="card_tit2">
                         <input type="button" name="" value="Validate" />
@@ -142,7 +142,7 @@ const InsuranceSub = () => {
             <div className="policy_details justify-content-between">
               <div className="row">
                 <div className="col-md-3">
-                  <Card className="pol_details me-3">
+                  <Card className="pol_details me-3 border-0">
                     <p>Policy number</p>
                     <input
                       type="text"
@@ -153,7 +153,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-3">
-                  <Card className="pol_details">
+                  <Card className="pol_details border-0">
                     <p>Policy Valid From</p>
                     <DatePicker
                       onChange={onChange}
@@ -167,7 +167,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-3">
-                  <Card className="pol_details">
+                  <Card className="pol_details border-0">
                     <p>Policy Valid to</p>
                     <DatePicker
                       onChange={onChange}
@@ -182,7 +182,7 @@ const InsuranceSub = () => {
                 </div>
                 <div className="col-md-3"></div>
                 <div className="col-md-3">
-                  <Card className="pol_details ">
+                  <Card className="pol_details border-0">
                     <p>Policy Renewal Receipt Number</p>
                     <input
                       type="text"
@@ -193,7 +193,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-3">
-                  <Card className="pol_details">
+                  <Card className="pol_details border-0">
                     <p>Policy Renewal Receipt Date</p>
                     <DatePicker
                       onChange={onChange}
@@ -216,7 +216,7 @@ const InsuranceSub = () => {
               </p>
               <div className="row">
                 <div className="col-md-3">
-                  <Card className="pol_details">
+                  <Card className="pol_details border-0">
                     <p>Name</p>
                     <input
                       type="text"
@@ -227,7 +227,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-3">
-                  <Card className="pol_details">
+                  <Card className="pol_details border-0">
                     <p>Mobile no. </p>
                     <input
                       type="number"
@@ -238,7 +238,7 @@ const InsuranceSub = () => {
                   </Card>
                 </div>
                 <div className="col-md-3">
-                  <Card className="pol_details">
+                  <Card className="pol_details border-0">
                     <p>Email ID</p>
                     <input
                       type="email"
