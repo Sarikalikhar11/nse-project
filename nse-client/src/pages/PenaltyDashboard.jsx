@@ -361,7 +361,7 @@ const PenaltyDashboard = () => {
     <>
       <form className="container-fluid ins-sub">
         <div className="row">
-          <div className="col-md-1">
+          <div className="col-lg-1 col-md-12 col-sm-12">
             <div className="side-nav-container">
               <div className="side-nav">
                 <div className="side-nav-box text-center p-2">

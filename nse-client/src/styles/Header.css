@@ -30,3 +30,14 @@ i {
   box-shadow: 5px 5px 8px 5px rgb(191, 191, 191);
   /* position:fixed; */
 }
+.footer {
+  justify-items: center;
+  align-items: center;
+  bottom: 0;
+}
+.footer p {
+  color: white;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}

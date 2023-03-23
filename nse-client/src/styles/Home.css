@@ -1,0 +1,28 @@
+.nav_down {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(194, 124, 10);
+  padding: 10px;
+  color: white !important;
+  font-weight: 600;
+}
+.box2 {
+  /* clip-path: circle(50% at 100% 18%); */
+  background-color: #dea0a2;
+  color: rgb(18, 27, 90);
+  font-weight: 600;
+}
+.box1 {
+  background-color: #6cb4ee;
+  color: rgb(18, 27, 90);
+  font-weight: 600;
+}
+.box3 {
+  background-color: #6ecebf;
+  color: rgb(18, 27, 90);
+  font-weight: 600;
+}
+.section {
+  padding: 40px;
+}

@@ -251,7 +251,7 @@ const InsuranceSub = () => {
               </div>
             </div>
           </form>
-          <div className="proc_btn d-flex justify-content-end">
+          <div className="proc_btn d-flex justify-content-end me-lg-5">
             <div className="row">
               <div className="col-md-6"></div>
               <div className="col-md-6">

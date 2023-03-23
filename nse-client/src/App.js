@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Bmc_request from './pages/Bmc_request';
 import InsuranceSub from './pages/InsuranceSub';
 import Home from './components/Home';
+import Footer from './components/Footer';
 import PenaltyDashboard from './pages/PenaltyDashboard';
 import Noobjection from './pages/Noobjection';
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="penaltydashboard" element={<PenaltyDashboard />} />
           <Route path="noobjection" element={<Noobjection />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </>
   );
