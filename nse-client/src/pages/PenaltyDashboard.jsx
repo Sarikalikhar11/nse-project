@@ -508,7 +508,7 @@ const PenaltyDashboard = () => {
               </div>
             </div>
           </div>
-          <div className="proc_btn d-flex justify-content-end ">
+          <div className="proc_btn d-flex justify-content-end pe-5">
             <div className="row">
               <div className="col-md-12">
                 <button type="submit" name="" value="">
