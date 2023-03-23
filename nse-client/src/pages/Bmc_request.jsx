@@ -16,7 +16,7 @@ const Bmc_request = () => {
           </div>
         </div>
         <div className="container form">
-          <form className="m-4">
+          <form className="m-4 ps-4">
             <div className="row">
               <div className="col-md-12">
                 <div className="req_title">
@@ -43,7 +43,7 @@ const Bmc_request = () => {
           </form>
         </div>
         <div className="container form">
-          <form className="m-4">
+          <form className="m-4 ps-4">
             <div className="row">
               <div className="col-md-12">
                 <div className="">
@@ -75,11 +75,12 @@ const Bmc_request = () => {
               </div>
             </div>
           </form>
-          <div className="app_btn">
+          <div className="proc_btn d-flex justify-content-end pe-5">
             <div className="row">
-              <div className="col-md-6"></div>
-              <div className="col-md-6">
-                <input type="button" name="" value="start application" />
+              <div className="col-md-12">
+                <button type="submit" name="" value="">
+                  start application
+                </button>
               </div>
             </div>
           </div>

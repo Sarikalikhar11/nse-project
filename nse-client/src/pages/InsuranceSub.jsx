@@ -130,7 +130,7 @@ const InsuranceSub = () => {
                 <div className="col-md-4">
                   <Card className="card_policy border-0">
                     <Card.Body>
-                      <Card.Title className="card_tit2">
+                      <Card.Title className="card_tit2 d-flex flex-column justify-content-end">
                         <input type="button" name="" value="Validate" />
                         <p>Validate Insurance Policy</p>
                       </Card.Title>
@@ -251,7 +251,7 @@ const InsuranceSub = () => {
               </div>
             </div>
           </form>
-          <div className="proc_btn">
+          <div className="proc_btn d-flex justify-content-end">
             <div className="row">
               <div className="col-md-6"></div>
               <div className="col-md-6">

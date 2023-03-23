@@ -59,26 +59,25 @@
   border: none;
   text-transform: uppercase;
   border-radius: 8px;
-  margin-right: 20px;
 }
 .btn:hover {
   border: none;
 }
 .btn-clear {
   background-color: rgb(211, 209, 209);
-  margin-right: 20px;
 }
 .btn-search {
   background-color: chocolate;
   color: white;
+  margin-left: 20px;
 }
 .icons {
   margin-left: 14px;
 }
-.icons span {
+/* .icons span {
   margin-right: 20px;
   margin-left: 10px;
-}
+} */
 .icons span:first-child {
   padding-right: 10px;
   border-right: 2px solid rgb(205, 204, 204);
@@ -94,7 +93,7 @@
   font-weight: 600;
   margin-top: -25px;
 }
-.app_btn input {
+/* .app_btn input {
   padding: 5px 40px 5px 40px;
   border-radius: 5px;
   border: none;
@@ -102,5 +101,15 @@
   text-transform: uppercase;
   color: white;
   font-size: 14px;
-  margin-left: 90px;
+} */
+.proc_btn button {
+  margin-top: 30px;
+  padding: 5px 60px 5px 60px;
+  border: none;
+  background-color: rgb(207, 95, 16);
+  border-radius: 10px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 600;
+  margin-right: 35px;
 }

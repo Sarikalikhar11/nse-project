@@ -80,7 +80,7 @@ form {
   color: rgb(245, 187, 126);
 }
 .fcicon {
-  color: orange;
+  color: rgb(223, 120, 30);
 }
 .card_text {
   font-weight: 600;
@@ -89,7 +89,7 @@ form {
   height: 140px;
 }
 .card_tit2 input {
-  margin: 100px 0px 0px 110px;
+  margin: 100px 0px 0px 0px;
   font-size: 16px;
   padding: 5px 70px 5px 70px;
   border-radius: 7px;
@@ -100,7 +100,6 @@ form {
 .card_tit2 p {
   margin-top: 5px;
   font-size: 12px;
-  margin-left: 150px;
   font-weight: 600;
 }
 .policy_details {
@@ -145,7 +144,6 @@ input[type='email']::placeholder {
 }
 .proc_btn button {
   margin-top: 30px;
-  margin-left: 280px;
   padding: 5px 60px 5px 60px;
   border: none;
   background-color: rgb(244, 223, 184);

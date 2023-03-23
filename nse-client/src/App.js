@@ -6,7 +6,7 @@ import Bmc_request from './pages/Bmc_request';
 import InsuranceSub from './pages/InsuranceSub';
 import Home from './components/Home';
 import PenaltyDashboard from './pages/PenaltyDashboard';
-
+import Noobjection from './pages/Noobjection';
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
           <Route path="insurancesubmission" element={<InsuranceSub />} />
           <Route path="bmcrequest" element={<Bmc_request />} />
           <Route path="penaltydashboard" element={<PenaltyDashboard />} />
+          <Route path="noobjection" element={<Noobjection />} />
         </Routes>
       </BrowserRouter>
     </>
